@@ -5,9 +5,8 @@ App desktop Windows pour écouter les radios en ligne avec style!
 ## ✨ Fonctionnalités
 
 - 🎵 Écoute 500+ radios francophones
-- 🎨 5 skins customisables (gratuit + premium)
+- 🎨 19 skins (gratuit + premium)
 - 🔐 Système de license premium
-- 🌍 Interface multilingue
 - 🚀 Mise à jour automatique
 
 ## 📥 Installation
