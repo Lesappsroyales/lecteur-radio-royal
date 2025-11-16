@@ -1,11 +1,11 @@
 # 🎵 Lecteur Radio Royal
 
-App desktop Windows pour écouter les radios en ligne avec style!
+App desktop Windows pour écouter des radios françaises en ligne avec style!
 
 ## ✨ Fonctionnalités
 
-- 🎵 Écoute 500+ radios francophones
-- 🎨 19 skins (gratuit + premium)
+- 🎵 Écoute 1000+ radios francophones
+- 🎨 des dizaines de skins (gratuit + premium)
 - 🔐 Système de license premium
 - 🚀 Mise à jour automatique
 
@@ -23,8 +23,8 @@ Télécharger la dernière version: [Releases](https://github.com/Lesappsroyales
 ## 💰 Monétisation
 
 L'app propose:
-- Version gratuite avec pubs affiliées (VPN, Spotify)
-- Version premium ZÉRO publicités
+- Version gratuite avec pubs affiliées (Amazon music)
+- Version premium ZÉRO publicités + Themes
 
 ## 👨‍💻 Auteur
 
