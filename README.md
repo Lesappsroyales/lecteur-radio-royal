@@ -23,8 +23,7 @@ Télécharger la dernière version: [Releases](https://github.com/Lesappsroyales
 ## 💰 Monétisation
 
 L'app propose:
-- Version gratuite avec pubs affiliées (Amazon music)
-- Version premium ZÉRO publicités + Themes
+- Offrez-moi un café si l'application vous plaît !
 
 ## 👨‍💻 Auteur
 
